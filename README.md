@@ -1,16 +1,9 @@
 # Cyber Labs Python
 
-This repository contains Python scripts created during my Google Cybersecurity Labs.
+This repository contains beginner Python scripts created as part of my cybersecurity learning journey.
 
-## Projects Included:
-1. `log_parser.py` - Parses log files to find suspicious entries.
-2. `file_debugger.py` - Debugging and error handling exercises.
-3. `data_slicer.py` - Examples of slicing and parsing data from files.
-
-## Skills Demonstrated
-- Python debugging
+## Skills
+- Python basics
 - File handling
-- Data parsing & analysis
-- Understanding of security-related data
+- Security-related thinking
 
-## How to Run
